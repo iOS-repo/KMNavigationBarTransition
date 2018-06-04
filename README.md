@@ -1,6 +1,6 @@
 KMNavigationBarTransition [中文介绍](https://github.com/MoZhouqi/KMNavigationBarTransition/blob/master/README_CN.md)
 ============
-
+非入侵式，可直接添加不用修改相应代码。
 A drop-in universal library helps you to manage the navigation bar styles and makes transition animations smooth between different navigation bar styles while pushing or popping a view controller for all orientations. And you don't need to write any line of code for it, it all happens automatically.
 
 ## Screenshots
